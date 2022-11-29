@@ -1,0 +1,45 @@
+#sideNav{
+float: left;
+max-width: 20%;
+padding: 10px;
+}
+
+#mainPage{
+    float:right;
+    max-width: 80%;
+    font-size: 20px;
+  
+    }
+#contentwrapper{
+    position: relative;
+    padding: 10px;
+}
+
+#content{
+    max-width: 80%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+#rightnav{
+    float: right;
+    max-width: 20%;
+    padding: 10px;
+}
+.font-sm{
+    font-size: 12px;
+}
+.table
+{
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#rightNavImg{
+    width: 100%;
+}
+
+.header
+{
+    font-weight: bold;
+}
